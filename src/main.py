@@ -3,8 +3,8 @@
 import requests
 
 _URL_ = 'http://example.com/the/example/path/messages'
-_API_KEY_ = 'Vmdhb1NzdUd0YUFKQnhwQmNVUnRVSUtOUUtjQmlDa1Q'
-
+API_KEY = 'Vmdhb1NzdUd0YUFKQnhwQmNVUnRVSUtOUUtjQmlDa1Q'
+# password = "this-is()hard_pass"
 
 def main():
 	h = {
